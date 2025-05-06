@@ -1,0 +1,4 @@
+dataset: ljspeech
+raw_dir: E:/pythonProject/OrpheusMelody/data/LJSpeech-1.1.tar/LJSpeech-1.1/LJSpeech-1.1
+output_dir: E:/pythonProject/OrpheusMelody/data/ljspeech_mds_out
+mfa_dir: E:/pythonProject/OrpheusMelody/data/LJSpeech-1.1.tar/LJSpeech-1.1/LJSpeech-1.1/textgrid 

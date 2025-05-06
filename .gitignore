@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+logs/
+output/
+*.log
+*.wav
+*.mid
+*.mp3
+*.mp4
+models/
+data/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# 项目特定
+text-to-music/data/
+text-to-music/models/nnsvs/
+text-to-music/models/so_vits_svc/
+text-to-music/models/saved_models/
+text-to-music/models/0109_hifigan_bigpopcs_hop128/
+text-to-music/self_check_output/
+
+# 临时文件
+*.tmp
+*.temp
+temp/
+
+# 音频文件
+*.wav
+*.mp3
+*.mid
+*.midi
+
+# 模型文件
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# 配置文件（可选，取决于是否需要版本控制）
+# *.yaml
+# *.json
+# *.config
+
+# 其他
+.env
+*.bak
+*.swp
+*~ 
